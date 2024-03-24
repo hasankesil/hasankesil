@@ -2,13 +2,11 @@
 <h3 align="center">A passionate fullstack developer and Civil Engineer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align= "center>
 <a href="https://linkedin.com/in/hasankesil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasankesil" height="30" width="40" /></a>
 <a href="https://instagram.com/hasankesil94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasankesil94" height="30" width="40" /></a>
-  
-  ## How to Reach Me
+<a href="mailto:hasankesil@hotmail.com"><img align="center" src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 
-[<img src="https://img.icons8.com/material-outlined/24/000000/email.png"/>](mailto:hasankesil@hotmail.com)
 
 </p>
 
