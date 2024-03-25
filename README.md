@@ -33,7 +33,8 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -52,7 +53,7 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -74,20 +75,49 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
-</td><td valign="top" width="33%">
+</td>
+  
+<td valign="top" width="25%">
 
-
-
-
+  
 ### DevOps  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+<td valign="top" width="25%">
+
+  
+### Engineering Tools  
+<div align="center">  
+  <a href="https://www.microsoft.com/tr-tr/microsoft-365/word" target="_blank" rel="noreferrer">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Office_Word_%282013%E2%80%932019%29.svg" alt="Word" height="50"/>
+</a>
+<a href="https://www.microsoft.com/tr-tr/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50"/>
+</a>
+<a href="https://www.autodesk.com.tr/products/autocad/overview" target="_blank" rel="noreferrer">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" width="120" />
+</a>
+
+<a href="https://www.csiamerica.com/products/sap2000" target="_blank" rel="noreferrer">
+  <img style="margin: 10px" src="https://wiki.csiamerica.com/download/thumbnails/1216699/SAP2000_web_Logo_50pxH_201219.png?version=1&modificationDate=1623779152587&api=v2" alt="SAP2000" width="100" height="50"/>
+</a>
+<a href="https://www.idecad.com.tr/" target="_blank" rel="noreferrer">
+  <img style="margin: 10px" src="https://www.idecad.com.tr/upload/uploads/2014/10/ideyapi-logo.png" alt="IdeCAD" width="100" height="50"/>
+</a>
+</div>
+
+</td>
+</tr></table>  
 
 <br/>  
+
+
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasankesil&show_icons=true&locale=en" alt="hasankesil" /></p>
