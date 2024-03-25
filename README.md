@@ -103,10 +103,10 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
 </a>
 
 <a href="https://www.csiamerica.com/products/sap2000" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://wiki.csiamerica.com/download/thumbnails/1216699/SAP2000_web_Logo_50pxH_201219.png?version=1&modificationDate=1623779152587&api=v2" alt="SAP2000" width="90" height="50"/>
+  <img style="margin: 10px" src="https://wiki.csiamerica.com/download/thumbnails/1216699/SAP2000_web_Logo_50pxH_201219.png?version=1&modificationDate=1623779152587&api=v2" alt="SAP2000" width="80" height="40"/>
 </a>
 <a href="https://www.idecad.com.tr/" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://www.idecad.com.tr/upload/uploads/2014/10/ideyapi-logo.png" alt="IdeCAD" width="100" height="50"/>
+  <img style="margin: 10px" src="https://www.idecad.com.tr/upload/uploads/2014/10/ideyapi-logo.png" alt="IdeCAD" width="70" height="40"/>
 </a>
 </div>
 
