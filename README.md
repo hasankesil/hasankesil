@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hasan Kesil</h1>
 <h3 align="center">A passionate Software Developer and Civil Engineer from Turkey</h3>
 
+I am a versatile professional with a background in **Civil Engineering** and currently pivoting my career towards **Software Development**.
+
+## Experience 🏗️
+
+With 3-4 years of construction project management experience, I have successfully managed complex projects like Hospital Construction, School Construction and developed my project management skills in the process.
+
+## What I'm Doing Now 💻
+
+Currently, I am trying to specialize in software development, focusing on both Backend and Frontend technologies.
+
+## My Goals 🎯
+
+My goal is to transfer the experience from my civil engineering background to the world of software development, using my ability to successfully manage complex projects from start to finish.
+
+## Personal Development and Openness to Innovation 🚀
+
+I am eager to continuously improve myself and adapt to new technologies. Producing creative solutions and solving complex problems is an exciting experience for me.
+
 <h3 align="left">Connect with me:</h3>
 <p align= "center>
 <a href="https://linkedin.com/in/hasankesil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasankesil" height="30" width="40" /></a>
