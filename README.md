@@ -99,11 +99,11 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50"/>
 </a>
 <a href="https://www.autodesk.com.tr/products/autocad/overview" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" width="120" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" width="100" />
 </a>
 
 <a href="https://www.csiamerica.com/products/sap2000" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://wiki.csiamerica.com/download/thumbnails/1216699/SAP2000_web_Logo_50pxH_201219.png?version=1&modificationDate=1623779152587&api=v2" alt="SAP2000" width="100" height="50"/>
+  <img style="margin: 10px" src="https://wiki.csiamerica.com/download/thumbnails/1216699/SAP2000_web_Logo_50pxH_201219.png?version=1&modificationDate=1623779152587&api=v2" alt="SAP2000" width="90" height="50"/>
 </a>
 <a href="https://www.idecad.com.tr/" target="_blank" rel="noreferrer">
   <img style="margin: 10px" src="https://www.idecad.com.tr/upload/uploads/2014/10/ideyapi-logo.png" alt="IdeCAD" width="100" height="50"/>
