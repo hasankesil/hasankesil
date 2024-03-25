@@ -99,7 +99,7 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" width= "40"/>
 </a>
 <a href="https://www.autodesk.com.tr/products/autocad/overview" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="60" width="100" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" width="900" />
 </a>
 
 <a href="https://www.csiamerica.com/products/sap2000" target="_blank" rel="noreferrer">
