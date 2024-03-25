@@ -93,10 +93,10 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
 ### Engineering Tools  
 <div align="center">  
   <a href="https://www.microsoft.com/tr-tr/microsoft-365/word" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Office_Word_%282013%E2%80%932019%29.svg" alt="Word" height="50"/>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Office_Word_%282013%E2%80%932019%29.svg" alt="Word" height="50" width= "50"/>
 </a>
 <a href="https://www.microsoft.com/tr-tr/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50"/>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" width= "50"/>
 </a>
 <a href="https://www.autodesk.com.tr/products/autocad/overview" target="_blank" rel="noreferrer">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" width="100" />
