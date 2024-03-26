@@ -3,6 +3,11 @@
 </h1>
 <h3 align="center">A passionate Software Developer and Civil Engineer from Turkey</h3>
 
+<p align="center">
+    <a href="https://drive.google.com/file/d/1IgUTJ1tpgeHftAh55W46InLUzoZ4aOYE/view">📄 Check Out My Resume</a>
+</p>
+
+
 I am a versatile professional with a background in **Civil Engineering** and currently pivoting my career towards **Software Development**.
 
 ## Experience 🏗️
