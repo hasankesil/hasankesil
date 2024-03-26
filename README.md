@@ -122,11 +122,10 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
 
 <br/>  
 
+<h4 align="left">👇🏻 My stats:</h4>
 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasankesil&show_icons=true&locale=en" alt="hasankesil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasankesil&" alt="hasankesil" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasankesil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hasankesil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasankesil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
