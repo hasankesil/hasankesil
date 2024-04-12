@@ -82,6 +82,9 @@ I am eager to continuously improve myself and adapt to new technologies. Produci
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
+</a>
 </td>
   
 <td valign="top" width="25%">
