@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Developer and Civil Engineer from Turkey</h3>
 
 <p align="center">
-    <a href="https://drive.google.com/file/d/1IgUTJ1tpgeHftAh55W46InLUzoZ4aOYE/view">📄 Check Out My Resume</a>
+    <a href="https://drive.google.com/file/d/1X0-ZnGkXXxZIKJGLP6Ie5TqLTIjPp9Nh/view">📄 Check Out My Resume</a>
 </p>
 
 
